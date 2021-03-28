@@ -1,0 +1,231 @@
+/* Reset */
+
+body, h1, h2, h3, p, ul {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	font-family: Georgia, serif;
+	color: #252525;
+}
+
+* {
+	box-sizing: border-box;
+}
+img{
+	display: block; /* para deixar aimagem responsiva */
+	max-width: 100%;
+}
+/* MENU */
+.menu {
+	background: #ffe2d8;
+	text-align: center;
+	border-bottom: 3px solid #e1ad9d;
+}
+.menu-nav a {
+	text-decoration: none;
+	color: #414151;
+	font-size: 1.4em;
+	
+}
+.menu-nav ul{
+	float:right;
+	list-style: none;/*para tirar os pontinhos*/
+}
+.menu-nav ul li{
+	display: inline-block; /*um do lado do outro */
+	padding: 25px 0;
+
+}
+.menu-nav ul li a{
+	display: inline-block;
+	padding: 10px;
+	margin-left: 10px;
+}
+
+
+/* Introdução */
+
+.intro{
+	background: url('../img/intro.png') no-repeat center center;
+    background-size: cover;
+    padding: 190px 0;
+}
+
+.intro h1 {
+	text-transform: uppercase;
+	font-size: 2.8em;
+	font-weight: bold;
+	text-align:right;
+}
+
+.intro-btn{
+	border: 3px solid #252525;
+	color: #252525;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1.125em;
+	font-weight: bold;
+	text-transform: uppercase;
+	width:  220px;
+	display:block;
+	margin:  90px auto 0 auto;
+	padding: 15px 0;
+}
+
+/* Sobre */
+.sobre{
+	padding-top: 60px;
+	padding-bottom:60px ;/*para criar o espaço enre o menu e a parte de baixo*/
+}
+.sobre h2 {
+	font-size: 2.25em;
+	text-align: center;
+	margin-bottom: 30px;
+	font-weight: bold;
+	text-transform: uppercase ;
+}
+.sobre-item {
+	font-size: 1.125em;
+	line-height: 1.4em;
+	max-width: 600px;
+	margin:  20px auto;
+	padding: 20px  40px 30 0px ;
+}
+.sobre-btn{
+	border: 3px solid #885b5f;
+	color: #885b5f;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1.125em;
+	font-weight: bold;
+	text-transform: uppercase;
+	width:  200px;
+	display:block;
+	margin:  20px auto 0 auto;
+	padding: 15px 0;
+
+}
+/* SERVIÇOS */
+.servicos{
+	background: #ffe2d8;
+	border-top: 3px solid #e1ad9d;
+	border-bottom: 3px solid #e1ad9d;
+	padding-top: 60px;
+	padding-bottom: 60px;
+
+}
+/* #885b5f */
+.servicos h2{
+	font-size: 2.25em;
+	text-align: center;
+	margin-bottom: 30px;
+	font-weight: bold;
+	text-transform: uppercase ;
+}
+
+.servicos-btn{
+	border: 3px solid #885b5f;
+	color: #885b5f;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1.125em;
+	font-weight: bold;
+	text-transform: uppercase;
+	width:  200px;
+	display:block;
+	margin:  40px auto 0 auto;
+	padding: 15px 0px;
+}
+
+
+
+.servicos-item p {
+	font-size:  1.125em;
+	line-height: 1.4em;
+	text-align:center;
+}
+
+/* PORTFÓLIO */
+
+.portfolio{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.portfolio h2{
+	font-size: 2.25em;
+	text-align: center;
+	margin-bottom: 30px;
+	font-weight: bold;
+	text-transform: uppercase ;
+}
+
+.port-item3{
+	margin-top: 25px;
+}
+
+.portfolio-btn{
+	border: 3px solid #885b5f;
+	color: #885b5f;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1.125em;
+	font-weight: bold;
+	text-transform: uppercase;
+	width:  200px;
+	display:block;
+	margin:  40px auto 0 auto;
+	padding: 15px 0px;
+}
+
+/* FOOTER */
+
+.footer{
+	width: 100%;
+	background: #ffe2d8;
+	border-top: 2px solid #e1ad9d;
+	border-bottom: 3px solid #e1ad9d;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.footer h3{
+    font-size: 18px;
+    line-height: 25px;
+	padding: 8px;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-weight: bold;
+}
+
+.footer_historia{
+    padding-right: 40px; /* para o paragrafo fique alinhado*/
+}
+.footer_contato ul li{
+    font-size: 16px;
+    line-height: 20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer_contatoMidia ul li{
+    display: inline-block; /* para colocar as tres imagens das midias um do lado do outro*/
+    margin-right: 10px;
+}
+.logo{
+   	display: block;
+   	padding: 10px;
+   	transition: all .5s ease; 
+}
+.footer_contatoMidia ul li a:hover{
+    border-color:#FFF;
+}
+/* COPY */
+.copy{
+    width: 100%;
+    padding: 10px 0;
+}
+.copy1{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
+}
