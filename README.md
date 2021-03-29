@@ -17,7 +17,7 @@ Uma página fictícia com proposito de colocar em prática HTML, CSS E BOOTSTRAP
   
   
 ### 1.HOME<br>
-
+  ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/balsamiq1.png) <br>
 
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
