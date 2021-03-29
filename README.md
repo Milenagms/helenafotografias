@@ -1,5 +1,5 @@
 # HELENA FOTOGRAFIAS 
-Uma página fictícia com proposito de colocar em prática HTML, CSS E BOOTSTRAP.
+Uma página fictícia com proposito de colocar em prática HTML, CSS E BOOTSTRAP,CORES, ESTILO, TIPOGRAFIA.
 
 
 ### 1.MOTIVAÇAO<br>
