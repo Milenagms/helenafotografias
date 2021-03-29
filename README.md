@@ -28,7 +28,7 @@ Uma página fictícia com proposito de colocar em prática HTML, CSS E BOOTSTRAP
   
   
 
-### 4. QUESTÃO DE SEO<br>
+### 4. QUESTÕES DE SEO<br>
 Em breve 
 
 
