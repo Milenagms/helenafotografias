@@ -16,27 +16,19 @@ Uma página fictícia com proposito de colocar em prática HTML, CSS E BOOTSTRAP
   - Contato: onde terá um fórmulário para contato. 
   
   
-### 1.HOME<br>
+### 3.1. HOME<br>
   ![Alt text](https://github.com/Milenagms/helenafotografias/blob/main/home-helena.png) <br>
+  
+### 3.2. SOBRE<br>
+        Em breve
+### 3.3. PORTFÓLIO <br>
+        Em breve
+### 3.4. CONTATO <br>
+       Em breve
+  
+  
+
+### 4. QUESTÃO DE SEO<br>
+Em breve 
 
 
-### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/balsamiq1.png) <br>
-Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/trabalho.pdf <br>
-
-### 5.MODELO CONCEITUAL<br>
-
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo%20conceitual.PNG)
- 
-#### 5.1 Validação do Modelo Conceitual
-    [Grupo01]: Jefferson Napomuceno e Flavia Lordes.
-    [Grupo02]: Thainara Amaral e Julio Cezar.
-
-#### 5.2 DECISÕES DE PROJETO <br>
-    TABELA TIPO_ENDEREÇO: Nessa tabela decidimos separar o tipo de endereço bairro, cidade e estado, pois iria existir uma repetição de     nomes de bairro, cidade e estados. <br>
-    TABELA TIPO_CONTATO: Nessa tabela decidimos separar o tipo de contato, ou seja, telefone fixo, celular, e-mail, rede social, etc,       pois também irá haver uma repetição do tipo de contato. <br>
-    TABELA SEGURANCA: Essa tabela foi criada com objetivo de armazenar os dados de segurança, como login e senha.
-   
-    
-   
