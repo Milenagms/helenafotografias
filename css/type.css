@@ -5,6 +5,11 @@ body, h1, h2, h3, p, ul {
 	margin: 0px;
 }
 
+a:focus, a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
 body {
 	font-family: Georgia, serif;
 	color: #252525;
@@ -12,6 +17,7 @@ body {
 
 * {
 	box-sizing: border-box;
+	text-decoration: none;
 }
 img{
 	display: block; /* para deixar aimagem responsiva */
@@ -58,12 +64,12 @@ img{
 	font-size: 2.8em;
 	font-weight: bold;
 	text-align:right;
+	margin-right: 30px;
 }
 
 .intro-btn{
 	border: 3px solid #252525;
 	color: #252525;
-	text-decoration: none;
 	text-align: center;
 	font-size: 1.125em;
 	font-weight: bold;
@@ -96,7 +102,6 @@ img{
 .sobre-btn{
 	border: 3px solid #885b5f;
 	color: #885b5f;
-	text-decoration: none;
 	text-align: center;
 	font-size: 1.125em;
 	font-weight: bold;
@@ -128,7 +133,6 @@ img{
 .servicos-btn{
 	border: 3px solid #885b5f;
 	color: #885b5f;
-	text-decoration: none;
 	text-align: center;
 	font-size: 1.125em;
 	font-weight: bold;
@@ -168,7 +172,6 @@ img{
 .portfolio-btn{
 	border: 3px solid #885b5f;
 	color: #885b5f;
-	text-decoration: none;
 	text-align: center;
 	font-size: 1.125em;
 	font-weight: bold;
@@ -214,6 +217,7 @@ img{
    	display: block;
    	padding: 10px;
    	transition: all .5s ease; 
+	max-width: 78px ;
 }
 .footer_contatoMidia ul li a:hover{
     border-color:#FFF;
