@@ -12,7 +12,7 @@ Uma página fictícia com proposito de colocar em prática HTML, CSS E BOOTSTRAP
 ### 3.COMPONENTES DO SITE TERÁ:<br> 
   - home: finalizada 
   - sobre: Contará a história da fotógrafa.
-  - portfólio: onde terá algumas fotos do seu serviços 
+  - portfólio: onde terá algumas fotos do seus serviços 
   - Contato: onde terá um fórmulário para contato. 
   
   
