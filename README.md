@@ -1,4 +1,4 @@
-<div align="center"> ### HELENA FOTOGRAFIAS </div>
+<div style="bold" align="center"> ### HELENA FOTOGRAFIAS </div>
 Uma página fictícia com proposito de colocar em prática HTML, CSS E BOOTSTRAP,CORES, ESTILO, TIPOGRAFIA.
 
 
